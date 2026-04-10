@@ -1,0 +1,20 @@
+{
+  "name": "Ankara Koltuk Temizleme",
+  "short_name": "Koltuk Yıkama",
+  "description": "Ankara Koltuk Temizleme: Sincan'da yerinde profesyonel koltuk, çekyat, yatak yıkama ve anti-bakteriyel dezenfeksiyon hizmeti. Aynı gün kuruma garantisi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#4F7DD8",
+  "orientation": "portrait-primary",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "lifestyle"]
+}

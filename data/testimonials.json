@@ -1,0 +1,19 @@
+{
+  "testimonials": [
+    {
+      "name": "Ayşe Yılmaz",
+      "text": "Ankara Koltuk Temizleme ile koltuklarım evimden ayrılmadan pırıl pırıl oldu. En güzeli de aynı gün içinde kuruyup kullanıma hazır hale gelmesiydi. Çocuklu evler için harika bir hizmet!",
+      "role": "3 yıldır müşterimiz"
+    },
+    {
+      "name": "Caner Demir",
+      "text": "Kedimin yaptığı idrar kokusundan ve lekelerden kurtulmak imkansız sanıyordum. Ankara Koltuk Temizleme ekibi sayesinde koltuğumdaki tüm koku ve lekeler yok oldu. Gerçekten harikasınız!",
+      "role": "2 yıldır müşterimiz"
+    },
+    {
+      "name": "Zeynep Kara",
+      "text": "Kadife koltuklarımın temizliği konusunda çok hassasım. Ankara Koltuk Temizleme ekibi kumaşa zarar vermeden, büyük bir özenle temizliği tamamladı. Sonuç mükemmeldi!",
+      "role": "5 yıldır müşterimiz"
+    }
+  ]
+}

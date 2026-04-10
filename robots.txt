@@ -1,0 +1,12 @@
+# Ankara Koltuk Temizleme — robots.txt
+User-agent: *
+Allow: /
+
+# Admin ve API erisimine izin verme
+Disallow: /api/
+Disallow: /admin/
+Disallow: /panel-*/
+Disallow: /data/
+
+# Sitemap
+Sitemap: https://ankarakoltuktemizleme.com.tr/sitemap.xml

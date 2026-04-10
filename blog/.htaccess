@@ -1,0 +1,15 @@
+# LeadFlow — Blog URL Yönlendirmesi
+# slug.html isteklerini post.php?slug=xxx'e yönlendirir
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # index.html ve template dosyalarını hariç tut
+    RewriteRule ^index\.html$ - [L]
+    RewriteRule ^blog-detail-template\.html$ - [L]
+    RewriteRule ^blog-list-template\.html$ - [L]
+    RewriteRule ^post\.php$ - [L]
+
+    # slug.html → post.php?slug=slug
+    RewriteRule ^([a-z0-9-]+)\.html$ post.php?slug=$1 [L,QSA]
+</IfModule>

@@ -1,0 +1,12 @@
+{
+  "admin_url": "/panel-87b99089/",
+  "api_token": "b8702e57af9c79650d67c2ca1abe24c8ffa639c58247cf85a7452daae0832113",
+  "note": "Bu URL'yi kimseyle paylaşmayın. Admin paneline erişmek için bu gizli URL'yi kullanın.",
+  "default_emails": [
+    "lidyakoltuk1@gmail.com"
+  ],
+  "default_user": "admin",
+  "default_pass": "admin123",
+  "hosting_setup": "api/config.php dosyasında DB_HOST, DB_NAME, DB_USER, DB_PASS değerlerini hosting cPanel'den alınan bilgilerle doldurun. Sonra api/install.php?token=API_TOKEN adresini ziyaret ederek tabloları oluşturun.",
+  "important": "İlk girişten sonra e-posta, kullanıcı adı ve şifrenizi mutlaka değiştirin! Panelden birden fazla yetkili e-posta ekleyebilirsiniz."
+}

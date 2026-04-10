@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "icon": "weekend",
+      "name": "Koltuk Yıkama",
+      "desc": "Kumaş türüne özel şampuanlar ve güçlü makinelerle yerinde profesyonel koltuk yıkama hizmeti.",
+      "price": "₺300'den",
+      "image": ""
+    },
+    {
+      "icon": "chair",
+      "name": "Sandalye & Berjer Yıkama",
+      "desc": "Yemek sandalyesi, berjer, ofis sandalyesi gibi tüm oturma birimlerinizin detaylı temizliği.",
+      "price": "₺75'den",
+      "image": ""
+    },
+    {
+      "icon": "king_bed",
+      "name": "Çekyat & Kanepe Yıkama",
+      "desc": "Açılır kapanır çekyatlarınız ve büyük kanepelerinizin derinlemesine temizlik ve hijyeni.",
+      "price": "₺550'den",
+      "image": ""
+    },
+    {
+      "icon": "bed",
+      "name": "Yatak Yıkama",
+      "desc": "Yerinde yatak temizliği, akar ve bakteri dezenfeksiyonu ile sağlıklı bir uyku ortamı.",
+      "price": "₺500'den",
+      "image": ""
+    },
+    {
+      "icon": "auto_awesome",
+      "name": "Leke & Koku Giderme",
+      "desc": "Evcil hayvan idrarı, kahve, yağ, kan gibi inatçı leke ve kötü kokuların profesyonelce giderilmesi.",
+      "price": "Ücretsiz Analiz",
+      "image": ""
+    },
+    {
+      "icon": "sanitizer",
+      "name": "Anti-Bakteriyel Dezenfeksiyon",
+      "desc": "Koltuklarınıza özel UV ve ozon destekli dezenfeksiyon ile %99.9 hijyen garantisi.",
+      "price": "₺250'den",
+      "image": ""
+    }
+  ]
+}

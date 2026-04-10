@@ -1,0 +1,25 @@
+# API klasörü — hassas dosyaları koru
+
+# config.php'ye doğrudan erişimi engelle
+<Files "config.php">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+</Files>
+
+# schema.sql'e doğrudan erişimi engelle
+<Files "schema.sql">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+</Files>
+
+# install.php — kurulumdan sonra bu satırı aktif et
+# <Files "install.php">
+#     <IfModule mod_authz_core.c>
+#         Require all denied
+#     </IfModule>
+# </Files>
+
+# Dizin listelemeyi kapat
+Options -Indexes
